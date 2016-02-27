@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<shapes>
+	<triangle>
+		<color>red</color>
+		<side>3</side>
+		<side>2</side>
+		<side>4</side>
+	</triangle>
+	<circle>
+		<color>orange</color>
+		<diameter>4</diameter>
+	</circle>
+	<square>
+		<color>blue</color>
+		<side>6</side>
+	</square>
+	<rectangle>
+		<color>green</color>
+		<side>-7.5</side>
+		<side>2.0</side>
+	</rectangle>
+	<circle>
+		<color>white</color>
+		<diameter>9</diameter>
+	</circle>
+	<rectangle>
+		<color>black</color>
+		<side>13.5</side>
+		<side>4.5</side>
+	</rectangle>
+</shapes>
